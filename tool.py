@@ -7,7 +7,7 @@ import random
 print (Fore.CYAN + figlet_format("dragon fire"))
 
 
-print ("creado por the dark society [ver 1.0]")
+print ("creado por the dark society [ver 1.1]")
 
 
 from colorama import Fore, Style, init
